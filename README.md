@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moraj13
+- 👋 Hi, I’m Jean Carlo Mora
 - 👀 I'm passionate about Data Analysts, Data Science, and turning numbers into insights.
 - 🌱 Currently learning SQL, Python, Power BI, Excel and expanding my knowledge in data visualization and machine learning.
 - 💡 Always curious about how data can drive decisions and solve real-world problems.
